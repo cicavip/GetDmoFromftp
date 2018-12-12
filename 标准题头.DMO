@@ -1,0 +1,44 @@
+FILNAM/'VW331 IP KW44 20181031.dmo',05.2
+$$ PC-DMIS Generated DMIS Output File
+$$ PC-DMIS Ver: 2015.1 
+Date=2018/10/30
+Time=14:32:15
+$$$$$$$$$$$$$$$$ TITLE START $$$$$$$$$$$$$$$$$$$$$$
+OUTPUT/ R(DATE_TIME)
+DATE = 2018/04/25
+TIME = 14:41:36
+OUTPUT/ R(R_DATE)
+DATE = 2018/04/25
+OUTPUT/ R(R_TIME)
+TIME = 14:41:36
+OUTPUT/ R(R_PARTNR)
+PN(PARTNR) = '19G_867_101'
+OUTPUT/ R(R_AUTO)
+PV(AUTO) = 'VW331'
+OUTPUT/ R(R_TYP)
+FI(TYP) = 'CUBING'
+OUTPUT/ R(R_PARTNM)
+PR(PARTNM) = 'TUERVERKLEIDUNG_LV'
+OUTPUT/ R(R_MPTYP)
+FS(MPTYP) = '19G_867_101'
+OUTPUT/ R(R_MACHINE)
+DI(MACHINE) = 'ZEISS'
+TEXT/RES, PS(TEILID), 30, AN, L, '8KW35'
+OUTPUT/ R(R_TEILID)
+PS(TEILID) = '181606'
+TEXT/RES, OP(Operator), 60, AN, L, 'Song Jinglong'
+OUTPUT/ R(R_Operator)
+OP(Operator) = 'Song Jinglong'
+OUTPUT/ R(R_CP)
+PL(CP) = 'CP_QD'
+$$$$$$$$$$$$$$$$ TITLE END $$$$$$$$$$$$$$$$$$$$$$
+$$$$$$$$$$$$$$$$ TITLE START $$$$$$$$$$$$$$$$$$$$$$
+PV(AUTO)='VW331'
+FI(TYP)='CUBING'
+PR(PARTNM)='TUERVERKLEIDUNG_LV'
+FS(MPTYP)='19G_867_101'
+PN(PARTNR)='19G_867_101'
+PS(TEILID)='18KW35'
+OP(OPERATORO)='Song Jinglong'
+$$$$$$$$$$$$$$$$ TITLE START $$$$$$$$$$$$$$$$$$$$$$
+
